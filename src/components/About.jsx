@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => {
   return (
     <div className="about">
-      <h2>About Me</h2>
+      <h2><bold>About Me</bold></h2>
      <p> Hello! I'm <strong>Bhargav Sai Cherukuri</strong>, a passionate web developer with a strong interest in building interactive, user-friendly websites and applications.
       </p>
       <p>
