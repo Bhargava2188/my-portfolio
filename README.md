@@ -84,7 +84,7 @@ Created by Bhargav Sai Cherukuri
 
 GitHub: Bhargava2188
 
-Netlify: friendly-treacle-09fd65
+Netlify: https://mellifluous-kelpie-398132.netlify.app/
 
 
 
